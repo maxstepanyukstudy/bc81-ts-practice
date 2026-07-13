@@ -51,7 +51,7 @@ const users: User4[] = [
 ];
 console.log("🚀 ~ users:", users);
 
-const users2: Array<User> = [
+const users2: Array<User4> = [
   { name: "Alice", age: 25 },
   { name: "Jacob", age: 30 },
 ];
