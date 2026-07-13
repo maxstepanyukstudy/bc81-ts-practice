@@ -68,16 +68,13 @@ const add2: AddFunctionType = function (x, y) {
   return x + y;
 };
 
-// todo: no?
-// use: Function Declaration
+// ! cant use: Function Declaration
 // function add3: AddFunctionType {
 //   return x + y;
 // };
 
 console.log(add(2, 3)); // 5
 console.log(add2(2, 3)); // 5
-// todo: no?
-// console.log(add3(2, 3)); // 5
 
 // ❌ Error: Type '(x: string, y: string) => string' is not assignable to type '(a: number, b: number) => number'.
 const incorrectAdd: AddFunction = (x: string, y: string) => x + y;
