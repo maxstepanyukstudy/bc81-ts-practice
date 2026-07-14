@@ -8,4 +8,5 @@ import "./style.css";
 // import "./modules/module-01-5-custom-type.ts";
 // import "./modules/module-01-5-functon.ts";
 
-import "./modules/module-01-6-enum.ts";
+// import "./modules/module-01-6-enum.ts";
+import "./modules/module-01-7-generics.ts";
