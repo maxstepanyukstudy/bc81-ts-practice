@@ -10,4 +10,6 @@ import "./style.css";
 
 // import "./modules/module-01-6-enum.ts";
 // import "./modules/module-01-7-generics.ts";
-import "./modules/module-01-8-promice.ts";
+// import "./modules/module-01-8-promice.ts";
+import "./modules/module-01-9-http-1-fetch.ts";
+import "./modules/module-01-9-http-2-axios.ts";
