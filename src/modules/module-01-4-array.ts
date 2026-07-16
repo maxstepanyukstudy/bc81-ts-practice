@@ -31,10 +31,11 @@ console.log("🚀 ~ numbers4:", numbers4);
 
 // ===
 
-const names4: string[] = ["Alice", "Bob"];
+// // i cant get this example to work even when using "noUncheckedIndexedAccess": true
 
-console.log(names4[5].toUpperCase());
-// ❌ Error: Object is possibly 'undefined'.
+// const names4: string[] = ["Alice", "Bob"];
+// console.log(names4[5].toUpperCase());
+// // ❌ Error: Object is possibly 'undefined'.
 
 // ===
 
