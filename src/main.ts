@@ -1,4 +1,4 @@
-import "modern-normalize.css";
+import "modern-normalize";
 import "./style.css";
 
 // import './modules/module-01-1-primitives.ts'
