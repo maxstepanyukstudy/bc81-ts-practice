@@ -1,6 +1,4 @@
-// Нормалізація стилів
 import "modern-normalize.css";
-// Глобальні стилі (додатково)
 import "./style.css";
 
 // import './modules/module-01-1-primitives.ts'
